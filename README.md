@@ -1,11 +1,12 @@
 <h1 align="center">Hello there 👋 I'm Darlan Fabricio Silva Santos</h1>
 <p><h2 align="center">A enthusiastic Full Stack web developer (beginner) from Brazil</h2></p>
 
-- 🔭 I’m currently working at **Crefisa**
-- 🌱 I’m currently learning **html, CSS and javasript**
+- 💼 I’m currently working at **Crefisa**
+- 👨‍🎓 I'm studing at **Growdev**, as member of their Full Stack Web developer program
+- 🧑‍💻 I’m currently learning **html, CSS and javasript**
 - 👯 I’m looking to collaborate on **most front-end projects as possible!**
-- 🤔 I’m looking for help with **everything i don't know** 😄
-- ⚡ I love watching **sports, netflix, games and learning new things** 
+- 🙋‍♂️ I’m looking for help with **everything i don't know** 🙇‍♂️
+- ❤️ I love watching **⚽ sports, 📺 netflix, 🎮 games and 🎓 learning new things** 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
