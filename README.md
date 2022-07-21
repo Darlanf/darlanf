@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 I'm Darlan Fabricio Silva Santos</h1>
 <p><h2 align="center">A enthusiastic Full Stack web developer (beginner) from Brazil</h2></p>
 
-- 🔭 I’m currently working on **Crefisa**
+- 🔭 I’m currently working at **Crefisa**
 - 🌱 I’m currently learning **html, CSS and javasript**
 - 👯 I’m looking to collaborate on **most front-end projects as possible!**
 - 🤔 I’m looking for help with **everything i don't know** 😄
@@ -36,7 +36,9 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanf&theme=react&layout=compact" />
 </p>
 
-[Darlan Fabricio](https://github.com/darlanf)
+-----
+
+[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darlanf)
 
 Last Edited on: 20/07/2022
 
