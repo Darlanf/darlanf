@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 I'm Darlan Fabricio Silva Santos</h1>
-<p><h2 align="center">A enthusiastic Full Stack web developer (beginner) from Brazil</h2></p>
+<p><h2 align="center">An enthusiastic Full Stack web developer (beginner) from Brazil, in pursuit of a new carrer 🖥️</h2></p>
 
-- 💼 I’m currently working at **Crefisa**
+- 💼 I’m currently working at **Crefisa**, in the past i worker at iTown and iPlace, both sales company
 - 👨‍🎓 I'm studing at **Growdev**, as member of their Full Stack Web developer program
 - 🧑‍💻 I’m currently learning **html, CSS and javasript**
 - 👯 I’m looking to collaborate on **most front-end projects as possible!**
