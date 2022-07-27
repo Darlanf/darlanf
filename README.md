@@ -33,15 +33,15 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Darlanf&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlanf&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=darlanf&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanf&theme=react&layout=compact" />
 </p>
 
 -----
 
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darlanf)
 
-Last Edited on: 20/07/2022
+Last Edited on: 27/07/2022
 
 <!--
 **Darlanf/darlanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
