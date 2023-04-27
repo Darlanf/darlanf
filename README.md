@@ -3,7 +3,7 @@
 
 - 💼 I’m currently looking for a job 👀, in the past i worked at iTown and iPlace, both  resales companies.
 - 👨‍🎓 I'm studing at **Growdev**, as member of their Full Stack Web developer program
-- 🧑‍💻 I’m currently learning **SQL, NodeJS, TypeORM and Migrations**
+- 🧑‍💻 I’m currently learning **NoSQL, NodeJS, Redis and Jest**
 - 👯 I’m looking to collaborate on **most front-end projects as possible!**
 - 🙋‍♂️ I’m looking for help with **everything i don't know** 🙇‍♂️
 - ❤️ I love watching **⚽ sports, 📺 netflix, 🎮 games and 🎓 learning new things** 
